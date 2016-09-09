@@ -1,0 +1,2 @@
+export VDB_SOURCE_LOCATION=/home2/dajurid1/vector-database-source-data
+export VDB_SOURCE_FILE_TYPE=json
