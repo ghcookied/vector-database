@@ -1,0 +1,2 @@
+python vdb_loader.py -dbase dajurid1_dev -dbuser dajurid1_admin -path $VDB_SOURCE_LOCATION -loglevel debug -mtable vdb_vector
+
