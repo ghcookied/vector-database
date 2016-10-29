@@ -1,6 +1,6 @@
 # vector-database
 
-Solution to DeskGen vector database homework
+Design a data storage system for the Addgene DNA vector collection
 
 Python code to load a set of files derived from addgene.com into a PostgreSQL database.
 
